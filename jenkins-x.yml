@@ -12,4 +12,3 @@ pipelineConfig:
                 - arch-3
               steps:
                 - command: echo ${ARCH}
-                  name: my-loop
